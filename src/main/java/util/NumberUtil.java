@@ -1,3 +1,5 @@
+package util;
+
 public class NumberUtil {
 
     public static int parseInt(String args) {
